@@ -10,5 +10,10 @@ public class Main {
         audi.engineCapacity = "V8";
         audi.headLights="Led";
 
+        //update 2
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80mhz");
+        System.out.println("Turn the air-conditioner");
+
     }
 }
